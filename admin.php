@@ -18,7 +18,7 @@
 </div>
 
 <?php
-$servername = "pustakalya-db.mysql.database.azure.com"";
+$servername = "pustakalya-db.mysql.database.azure.com";
 $username = "superuser";
 $password = "Secret@123";
 $dbname = "iwp";
