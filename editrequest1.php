@@ -18,9 +18,9 @@
 </div>
 
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "pustakalya-db.mysql.database.azure.com";
+$username = "superuser";
+$password = "Secret@123";
 $dbname = "iwp";
 
 // Create connection
