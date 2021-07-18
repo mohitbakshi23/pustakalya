@@ -18,9 +18,9 @@
 </div>
 
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "pustakalya-db.mysql.database.azure.com";
+$username = "superuser";
+$password = "Secret@123";
 $dbname = "iwp";
 
 // Create connection
@@ -112,16 +112,16 @@ echo '<center><span style="color:white;text-align:center;"><h2>Book Inserted.<h2
   </li>
   <li>
     Address:
-    VIT Vellore,
-    Katpadi Road,
-    Vellore,
-    Tamil Nadu 632014
+     Govt. College for Women,
+    Parade Ground,
+    Jammu,
+    Jammu&kashmir 180001.
   </li>
   <li>
     Contact Us:
-    Email:vitbarnbooks@gmail.com
+    Email:buybooks@gmail.com
     Mobile No: +918178197468
-  </li>
+  </li
   </ul>
     </div>
 </div> 
