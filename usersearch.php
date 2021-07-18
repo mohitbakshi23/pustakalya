@@ -214,17 +214,16 @@ echo '<center><a style="color:white ;text-decoration:none;" href="request.php"><
   <ul>
   <li>
   <img src="logobook.jpg.jpeg">
-  </li>
   <li>
     Address:
-    VIT Vellore,
-    Katpadi Road,
-    Vellore,
-    Tamil Nadu 632014
+    Govt. College for Women,
+    Parade Ground,
+    Jammu,
+    Jammu&kashmir 180001.
   </li>
   <li>
     Contact Us:
-    Email:vitbarnbooks@gmail.com
+    Email:buybooks@gmail.com
     Mobile No: +918178197468
   </li>
   </ul>
